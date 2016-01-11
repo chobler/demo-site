@@ -86,7 +86,7 @@ For double tap support.
 ```
 
 
-### [DEMO](http://demo.onokumus.com/metisMenu/)
+### [DEMO](http://demo-site/demo.onokumus.com/metisMenu/)
 
 Contains a simple HTML file to demonstrate metisMenu plugin.
 
